@@ -15,5 +15,4 @@
   2) Check that the for attribute of the label element matches the id of the input element
   3) Check that the label element is visible.
 - Resultados esperados
-
-  -- Verifique que #1 e #2 são verdadeiros (CS 1.1.1 (A), CS 1.3.1 (A)). Para o CS 3.3.2 (A), verifique se o #3 também é verdadeiro.
+  - Verifique que #1 e #2 são verdadeiros (CS 1.1.1 (A), CS 1.3.1 (A)). Para o CS 3.3.2 (A), verifique se o #3 também é verdadeiro.
