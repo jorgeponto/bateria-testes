@@ -1,6 +1,6 @@
 # Formulários
 
-- H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário
+- [H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário](#h44-utilização-de-elementos-label-para-associar-etiquetas-de-texto-aos-controlos-de-formulário)
 
 ## H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário
 
