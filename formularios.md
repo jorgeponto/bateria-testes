@@ -1,6 +1,6 @@
 # Formulários
 
-- [ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador]()
+- [ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador](#aria16-utilização-de-aria-labelledby-para-dar-um-name-para-os-controlos-da-interface-de-utilizador)
 - [H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário](#h44-utilização-de-elementos-label-para-associar-etiquetas-de-texto-aos-controlos-de-formulário)
 
 ## ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador
