@@ -1,7 +1,7 @@
 # Formulários
 
 - [ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador](#aria16-utilização-de-aria-labelledby-para-dar-um-name-para-os-controlos-da-interface-de-utilizador)
-- [ARIA17: Using grouping roles to identify related form controls]()
+- [ARIA17: Using grouping roles to identify related form controls](#aria-17-using-grouping-roles-to-identify-related-form-controls)
 - [H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário](#h44-utilização-de-elementos-label-para-associar-etiquetas-de-texto-aos-controlos-de-formulário)
 
 ## ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador
@@ -26,7 +26,7 @@ Procedimento
 
 ## H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário
 
-## Procedimento a efetuar
+Procedimento
 
 - For all input elements of type text, file or password, for all textareas and for all select elements in the Web page:
   1) Check that there is a label element that identifies the purpose of the control before the input, textarea, or select element
