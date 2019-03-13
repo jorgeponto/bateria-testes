@@ -1,6 +1,7 @@
 # Formulários
 
 - [ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador](#aria16-utilização-de-aria-labelledby-para-dar-um-name-para-os-controlos-da-interface-de-utilizador)
+- [ARIA17: Using grouping roles to identify related form controls]()
 - [H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário](#h44-utilização-de-elementos-label-para-associar-etiquetas-de-texto-aos-controlos-de-formulário)
 
 ## ARIA16: Utilização de aria-labelledby para dar um name para os controlos da interface de utilizador
@@ -11,8 +12,17 @@ Procedimento
   1) Check that the value of the aria-labelledby attribute is the id of an element or a space separated list of ids on the web page.
   2) Check that the text of the referenced element or elements accurately labels the user interface control.
 - Resultados esperados
-  - #1 e #2 são verdadeiros.
+  - #1 e #2 são verdadeiros (CS 1.3.1 (A), CS 4.1.2 (A))
 
+## ARIA 17: Using grouping roles to identify related form controls
+
+Procedimento
+
+- For groups of related controls where the individual labels for each control do not provide a sufficient description, and an additional group level description is needed:
+  1) Check that the group of logically related input or select elements are contained within an element with role=group.
+  2) Check that this group has an accessible name defined using aria-label or aria-labelledby.
+- Expected Results
+  - #1 e #2 são verdadeiros.
 
 ## H44: Utilização de elementos label para associar etiquetas de texto aos controlos de formulário
 
